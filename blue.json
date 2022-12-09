@@ -3,12 +3,7 @@
     "version": "0.0.2",
     "description": "Pink/Black Theme for Enmity",
     "color": "#2d4ffb",
-    "authors": [
-      {
-        "name": "Bwlok#6440",
-        "id": "501827585806827520"
-      }
-    ],
+    
     "theme_color_map": {
       "KEYBOARD": [
         "#000000",
